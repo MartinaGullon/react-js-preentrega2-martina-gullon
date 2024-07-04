@@ -1,0 +1,11 @@
+.anuncio {
+    color: #e8967b;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+span {
+    color: rgba(220, 220, 20, 0.963);
+}

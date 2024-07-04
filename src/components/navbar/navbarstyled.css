@@ -1,0 +1,52 @@
+.navBar {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+    box-shadow: -4px 2px 60px 10px rgba(123, 118, 118, 0.75);
+    text-decoration: none;
+
+    background-color: rgb(187, 126, 244);
+}
+
+.navBar h1 {
+    margin-top: 10px;
+    color: #d0e866;
+    font-style: italic;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+h1 span {
+    margin-top: 20px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.nav-barlist {
+    color: #caf11b;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 15px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.beer,
+.wine,
+.liquor {
+    width: 60px;
+    height: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    color: #caf11b;
+    cursor: pointer;
+    border: none;
+    font-size: 25px;
+
+
+}
